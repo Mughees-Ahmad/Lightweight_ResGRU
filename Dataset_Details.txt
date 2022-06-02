@@ -1,0 +1,12 @@
+In this research study, the dataset is arranged by integrating and augmenting four different publicly available benchmark repositories on the internet. Because the datasets used in this study are protected by copyright, the following websites' links are provided to access the datasets used in this study:
+
+1. Chest Radiography Database:  https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
+
+2. SARS-CoV-2 Ct-Scan: https://www.kaggle.com/datasets/plameneduardo/sarscov2-ctscan-dataset
+
+3. Curated Dataset for COVID-19 Posterior-Anterior Chest Radiography Images (X-Rays):  https://data.mendeley.com/datasets/9xkhgts2s6/3
+
+4. SIIM-FISABIO-RSNA COVID-19 Detection: https://www.kaggle.com/c/siim-covid19-detection
+
+
+
